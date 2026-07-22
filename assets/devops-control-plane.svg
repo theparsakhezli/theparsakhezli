@@ -28,7 +28,7 @@
       .stage { fill:#dcecff; font-size:17px; font-weight:700; }
       .tiny { fill:#6f89a9; font-size:12px; }
       .line { stroke:url(#edge); stroke-width:3; stroke-dasharray:10 12; animation: flow 2.2s linear infinite; }
-      .pulse { animation: pulse 1.8s ease-in-out infinite; transform-origin:center; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
       .blink { animation: blink 1s steps(2,end) infinite; }
       .bar1 { animation: grow1 3.4s ease-in-out infinite; }
       .bar2 { animation: grow2 4.1s ease-in-out infinite; }
@@ -36,9 +36,9 @@
       @keyframes flow { to { stroke-dashoffset:-44; } }
       @keyframes pulse { 0%,100% { opacity:.45; transform:scale(.86); } 50% { opacity:1; transform:scale(1.13); } }
       @keyframes blink { 50% { opacity:0; } }
-      @keyframes grow1 { 0%,100% { width:104px; } 50% { width:156px; } }
-      @keyframes grow2 { 0%,100% { width:148px; } 50% { width:92px; } }
-      @keyframes grow3 { 0%,100% { width:72px; } 50% { width:138px; } }
+      @keyframes grow1 { 0%,100% { width:76px; } 50% { width:104px; } }
+      @keyframes grow2 { 0%,100% { width:108px; } 50% { width:92px; } }
+      @keyframes grow3 { 0%,100% { width:56px; } 50% { width:88px; } }
     </style>
   </defs>
 
@@ -109,13 +109,13 @@
     <text x="18" y="29" class="mono label">TELEMETRY</text>
     <text x="18" y="63" class="mono tiny">CPU</text>
     <rect x="18" y="73" width="112" height="8" rx="4" fill="#182d49"/>
-    <rect x="18" y="73" width="104" height="8" rx="4" fill="#00e5ff" class="bar1"/>
+    <rect x="18" y="73" width="76" height="8" rx="4" fill="#00e5ff" class="bar1"/>
     <text x="18" y="108" class="mono tiny">MEMORY</text>
     <rect x="18" y="118" width="112" height="8" rx="4" fill="#182d49"/>
-    <rect x="18" y="118" width="96" height="8" rx="4" fill="#7c4dff" class="bar2"/>
+    <rect x="18" y="118" width="108" height="8" rx="4" fill="#7c4dff" class="bar2"/>
     <text x="18" y="153" class="mono tiny">LATENCY</text>
     <rect x="18" y="163" width="112" height="8" rx="4" fill="#182d49"/>
-    <rect x="18" y="163" width="72" height="8" rx="4" fill="#00c853" class="bar3"/>
+    <rect x="18" y="163" width="56" height="8" rx="4" fill="#00c853" class="bar3"/>
     <circle cx="27" cy="205" r="6" fill="#00e676" class="pulse"/>
     <text x="42" y="210" class="mono tiny" fill="#b8ffd4">SERVICES HEALTHY</text>
   </g>

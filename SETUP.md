@@ -5,8 +5,8 @@
 Create or use the special GitHub profile repository:
 
 ```text
-ParsaKhezli/
-└── ParsaKhezli/
+theparsakhezli/
+└── theparsakhezli/
     ├── README.md
     └── assets/
         ├── devops-control-plane.svg
@@ -19,8 +19,8 @@ The repository must be public and its name must exactly match your GitHub userna
 ## Upload with Git
 
 ```bash
-git clone https://github.com/ParsaKhezli/ParsaKhezli.git
-cd ParsaKhezli
+git clone https://github.com/theparsakhezli/theparsakhezli.git
+cd theparsakhezli
 
 cp /path/to/README.md .
 cp -r /path/to/assets .
@@ -33,9 +33,9 @@ git push origin main
 ## What works automatically
 
 - All three custom DevOps animations are local SVG files inside your repository.
-- Profile views and follower badges use your `ParsaKhezli` username.
+- Profile views and follower badges use your `theparsakhezli` username.
 - GitHub telemetry cards update from your public GitHub activity.
-- The typing animation, technology icons, and contact badges are loaded from public README services.
+- Technology icons, statistics, and contact badges are loaded from public README services.
 
 ## Notes
 

@@ -1,67 +1,60 @@
 <p align="center">
-  <img src="./assets/devops-control-plane.svg" width="100%" alt="Parsa Khezli DevOps control plane animation" />
+  <img src="./assets/devops-control-plane.svg" width="100%" alt="Parsa Khezli's DevOps control plane" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=DevOps+Engineer+%7C+Python%2FDjango+Background;Automating+Deployments+and+Infrastructure;Observability+%7C+Reliability+%7C+Self-Hosting;Learning+Kubernetes+and+GitOps"
-    alt="Animated introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ParsaKhezli">
-    <img src="https://komarev.com/ghpvc/?username=ParsaKhezli&label=CONTROL%20PLANE%20VISITS&color=00b8d9&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/theparsakhezli">
+    <img src="https://komarev.com/ghpvc/?username=theparsakhezli&amp;label=PROFILE%20VIEWS&amp;color=00b8d9&amp;style=flat-square" alt="Profile view count" />
   </a>
-  <a href="https://github.com/ParsaKhezli?tab=followers">
-    <img src="https://img.shields.io/github/followers/ParsaKhezli?label=Followers&style=flat-square&color=7c4dff" alt="GitHub followers" />
+  <a href="https://github.com/theparsakhezli?tab=followers">
+    <img src="https://img.shields.io/github/followers/theparsakhezli?label=Followers&amp;style=flat-square&amp;color=7c4dff" alt="GitHub follower count" />
   </a>
   <a href="mailto:parsakhezli8304@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20DevOps%20Collaboration-00c853?style=flat-square" alt="Collaboration status" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20collaboration-00c853?style=flat-square" alt="Open to collaboration" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ParsaKhezli">
-    <img src="https://img.shields.io/badge/LinkedIn-Parsa%20Khezli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Parsa%20Khezli-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Parsa Khezli on LinkedIn" />
   </a>
   <a href="mailto:parsakhezli8304@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parsakhezli8304%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-parsakhezli8304%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Parsa Khezli" />
   </a>
 </p>
 
 <img src="./assets/pipeline-loop.svg" width="100%" alt="Animated deployment pipeline" />
 
-## `01 // OPERATOR PROFILE`
+## `01 // ABOUT ME`
 
 <p align="center">
   <img src="./assets/operator-terminal.svg" width="100%" alt="Animated operator profile terminal" />
 </p>
 
-I started in **Python/Django backend development** and gradually moved closer to the systems that keep applications alive after the code is written.
+I started in **Python/Django backend development** and gradually moved toward the systems that keep applications reliable after the code is shipped.
 
-Today, I focus on **DevOps engineering**: reliable deployment workflows, Linux server operations, containerized infrastructure, CI/CD, observability, self-hosted services, backups, migrations, and automation.
+Today, I focus on **DevOps engineering**: Linux operations, containerized infrastructure, CI/CD, observability, self-hosted services, backups, migrations, and automation.
 
 > **My default approach:** automate repeated work, make failures visible, keep rollback paths clear, and choose simple systems before unnecessary complexity.
 
-## `02 // INFRASTRUCTURE MATRIX`
+## `02 // TOOLKIT`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,ansible,bash,git,githubactions,gitlab,prometheus,grafana,elasticsearch,postgres,redis,python,django,cloudflare&perline=9" alt="DevOps and backend technology icons" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,ansible,bash,git,githubactions,gitlab,prometheus,grafana,elasticsearch,postgres,redis,python,django,cloudflare&amp;perline=9" alt="Linux, containers, automation, observability, and backend technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Portainer-Container%20Management-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer" />
-  <img src="https://img.shields.io/badge/Nextcloud-Self--Hosted-0082C9?style=flat-square&logo=nextcloud&logoColor=white" alt="Nextcloud" />
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/ELK-Centralized%20Logging-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&amp;logo=argo&amp;logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Portainer-Container%20Management-13BEF9?style=flat-square&amp;logo=portainer&amp;logoColor=white" alt="Portainer" />
+  <img src="https://img.shields.io/badge/Nextcloud-Self--Hosted-0082C9?style=flat-square&amp;logo=nextcloud&amp;logoColor=white" alt="Nextcloud" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/ELK-Centralized%20Logging-005571?style=flat-square&amp;logo=elastic&amp;logoColor=white" alt="Elastic Stack" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Delivery & Runtime</h3>
+      <h3>⚙️ Delivery &amp; Runtime</h3>
       <ul>
         <li>Linux and Ubuntu server operations</li>
         <li>Docker and Docker Compose deployments</li>
@@ -71,7 +64,7 @@ Today, I focus on **DevOps engineering**: reliable deployment workflows, Linux s
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 Visibility & Automation</h3>
+      <h3>📡 Visibility &amp; Automation</h3>
       <ul>
         <li>Prometheus, Grafana, exporters, and alerting</li>
         <li>ELK-based centralized logging</li>
@@ -107,7 +100,7 @@ Today, I focus on **DevOps engineering**: reliable deployment workflows, Linux s
 
 <img src="./assets/pipeline-loop.svg" width="100%" alt="Animated deployment pipeline divider" />
 
-## `03 // ACTIVE MISSIONS`
+## `03 // WHAT I'M BUILDING`
 
 <table>
   <tr>
@@ -140,7 +133,7 @@ Today, I focus on **DevOps engineering**: reliable deployment workflows, Linux s
   </tr>
 </table>
 
-## `04 // OPERATING PRINCIPLES`
+## `04 // ENGINEERING PRINCIPLES`
 
 ```text
 AUTOMATION     > repetition
@@ -148,27 +141,22 @@ OBSERVABILITY  > guessing
 ROLLBACK       > hoping
 DOCUMENTATION  > tribal knowledge
 SIMPLICITY     > unnecessary complexity
-RELIABILITY    > risky fast releases
+RELIABILITY    > unsafe speed
 ```
 
-## `05 // GITHUB TELEMETRY`
+## `05 // GITHUB ACTIVITY`
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParsaKhezli&theme=tokyonight" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParsaKhezli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theparsakhezli&amp;theme=tokyonight" alt="Parsa Khezli's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theparsakhezli&amp;theme=tokyonight" alt="Parsa Khezli's repositories by language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParsaKhezli&theme=tokyonight" alt="Repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParsaKhezli&theme=tokyonight" alt="Most committed languages" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theparsakhezli&amp;theme=tokyonight" alt="Parsa Khezli's GitHub contribution details" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParsaKhezli&theme=tokyonight" alt="GitHub profile contribution details" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParsaKhezli&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=theparsakhezli&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Parsa Khezli's GitHub activity graph" />
 </p>
 
 ## `06 // COLLABORATION CHANNEL`
@@ -183,13 +171,13 @@ I am interested in collaborating on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ParsaKhezli">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:parsakhezli8304@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send email" />
   </a>
-  <a href="https://github.com/ParsaKhezli?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <a href="https://github.com/theparsakhezli?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
@@ -197,8 +185,4 @@ I am interested in collaborating on:
   <samp>
     SYSTEM STATUS: <b>BUILDING</b> · <b>LEARNING</b> · <b>SHIPPING</b>
   </samp>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C4DFF,100:00C853&height=110&section=footer" width="100%" alt="Footer wave" />
 </p>
