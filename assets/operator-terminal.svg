@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Parsa Khezli operator profile terminal</title>
+  <desc id="desc">Animated terminal showing Parsa's DevOps role, backend background, focus areas, and current status.</desc>
+  <defs>
+    <linearGradient id="terminalBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07131f"/>
+      <stop offset="1" stop-color="#0c1125"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family:"JetBrains Mono","Fira Code",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+      .prompt { fill:#00e5ff; font-size:18px; }
+      .text { fill:#d7e7f7; font-size:18px; }
+      .key { fill:#8ea6c4; font-size:17px; }
+      .value { fill:#8ef6bd; font-size:17px; }
+      .line1 { animation: show 10s infinite; }
+      .line2 { animation: show 10s .8s infinite both; }
+      .line3 { animation: show 10s 1.6s infinite both; }
+      .line4 { animation: show 10s 2.4s infinite both; }
+      .line5 { animation: show 10s 3.2s infinite both; }
+      .line6 { animation: show 10s 4s infinite both; }
+      .cursor { animation: blink 1s steps(2,end) infinite; }
+      @keyframes show { 0%,7% { opacity:0; transform:translateY(5px); } 13%,92% { opacity:1; transform:translateY(0); } 100% { opacity:0; } }
+      @keyframes blink { 50% { opacity:0; } }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="342" rx="20" fill="url(#terminalBg)" stroke="#203758" stroke-width="2"/>
+  <rect x="4" y="4" width="1192" height="48" rx="20" fill="#111c2f"/>
+  <rect x="4" y="34" width="1192" height="18" fill="#111c2f"/>
+  <circle cx="31" cy="28" r="6" fill="#ff5f57"/>
+  <circle cx="53" cy="28" r="6" fill="#febc2e"/>
+  <circle cx="75" cy="28" r="6" fill="#28c840"/>
+  <text x="100" y="34" class="mono" fill="#7890ad" font-size="14">operator-profile — parsa@devops-node</text>
+
+  <g class="line1">
+    <text x="42" y="92" class="mono prompt">$</text>
+    <text x="66" y="92" class="mono text">whoami</text>
+  </g>
+  <g class="line2">
+    <text x="66" y="126" class="mono" fill="#7c4dff" font-size="20" font-weight="700" filter="url(#softGlow)">Parsa Khezli</text>
+  </g>
+  <g class="line3">
+    <text x="42" y="168" class="mono prompt">$</text>
+    <text x="66" y="168" class="mono text">cat /etc/operator-profile</text>
+  </g>
+  <g class="line4">
+    <text x="66" y="205" class="mono key">role</text>
+    <text x="210" y="205" class="mono value">= DevOps Engineer</text>
+    <text x="66" y="237" class="mono key">origin</text>
+    <text x="210" y="237" class="mono value">= Python / Django Backend</text>
+  </g>
+  <g class="line5">
+    <text x="66" y="269" class="mono key">focus</text>
+    <text x="210" y="269" class="mono value">= CI/CD | Self-Hosting | Observability | Automation</text>
+  </g>
+  <g class="line6">
+    <text x="66" y="301" class="mono key">status</text>
+    <text x="210" y="301" class="mono value">= building · learning · shipping</text>
+    <rect x="638" y="284" width="11" height="21" fill="#00e5ff" class="cursor"/>
+  </g>
+</svg>
